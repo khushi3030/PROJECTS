@@ -1,1 +1,4 @@
-# c-projects
+# c++-projects
+
+
+SOME C++ PROJECTS THAT I HAVE MADE.
